@@ -43,7 +43,7 @@ th {
 	padding-left: 7vw;
 }
 #description {
-	padding-right: 20vw;
+	padding-right: 35vw;
 }
 #key-color {
 	background-color: hsla(20, 90%, 60%, .3);
@@ -51,25 +51,36 @@ th {
 #not-done-yet {
 	background-color: hsla(20, 90%, 60%, .3);
 }
+@media (max-width: 900px) {
+	#logo {
+		font-size: 15vw;
+	}
+	#description {
+		padding-right: 25vw;
+	}
+}
 @media (max-width: 600px) {
 	#logo {
 		font-size: 1px;
 		visibility: hidden;
 	}
 	#title {
-		font-size: 15vw;
+		font-size: 18vw;
 		text-align: center;
 		margin-bottom: 0px;
 		margin-top: 3px;
 	}
 	#links {
-		font-size: 6vw;
+		font-size: 6.8vw;
 		text-align: center;
 		margin-top: 10px;
+		margin-left: 0px;
+		margin-right: 0px;
 	}
 	#description {
 		padding-right: 0px;
 		margin-top: 10px;
+		font-size: 7vw;
 	}
 	th {
 		padding-left: 0px;
