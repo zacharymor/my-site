@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://www.zachmor.com/</loc>
-		<lastmod>2017-12-5</lastmod>
+		<lastmod>2017-12-05</lastmod>
 		<changefreq>hourly</changefreq>
 		<priority>.8</priority>
 	</url>
 	<url>
 		<loc>http://www.zachmor.com/thecook</loc>
-		<lastmod>2017-12-5</lastmod>
+		<lastmod>2017-12-05</lastmod>
 		<changefreq>hourly</changefreq>
 	</url>
 </urlset>
